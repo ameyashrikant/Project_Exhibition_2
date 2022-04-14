@@ -1,4 +1,3 @@
-# Linear
 import pandas as pd
 import pickle
 
@@ -88,4 +87,4 @@ mlp.fit(X_train,y_train)
 
 # Creating a pickle file for the classifier
 file_name = 'first-innings-score-lr-model-ann.pkl'
-pickle.dump(regressor, open(file_name, 'wb'))
+pickle.dump(regressor, open(file_name,'wb'))
