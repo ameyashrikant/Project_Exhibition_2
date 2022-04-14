@@ -7,4 +7,5 @@ matplotlib
 pandas
 Jinja2==2.10.2
 markupsafe==2.0.1
-itsdangerous
+itsdangerous==2.0.1
+werkzeug==0.16.1
