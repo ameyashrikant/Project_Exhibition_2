@@ -1,7 +1,6 @@
 # Importing essential libraries
 # Importing essential libraries
 from flask import Flask, render_template, request
-from collections.abc import Mapping
 import pickle
 import numpy as np
 
