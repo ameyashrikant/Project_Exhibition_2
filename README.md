@@ -1,7 +1,7 @@
 # IPL-Prediction---Machine-Learning-Project
 
 Predicts the first innings score of the IPL match. 
-Parameter: 
+## Parameter: 
   Batting Team
   Bowling Team
   Overs completed
@@ -10,10 +10,11 @@ Parameter:
   Runs scored in previous 5 overs
   Wickets taken in previous 5 overs
 
-Regression techniques used:
+## Regression techniques used:
   Linear Regression
   Ridge Regression
   Random Forest Regression
   Artificial Neural Network (Multi-Layer Perceptron)
 
-Youtube Demo: https://www.youtube.com/watch?app=desktop&v=xhLQqeVxBPw&feature=youtu.be
+## Youtube Demo: 
+https://www.youtube.com/watch?app=desktop&v=xhLQqeVxBPw&feature=youtu.be
